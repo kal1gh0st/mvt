@@ -1,7 +1,6 @@
 # Mobile Verification Toolkit (MVT)
 # Copyright (c) 2021 MVT Project Developers.
 # See the file 'LICENSE' for usage and copying permissions, or find a copy at
-#   https://github.com/mvt-project/mvt/blob/main/LICENSE
 
 import os
 from setuptools import setup, find_packages
